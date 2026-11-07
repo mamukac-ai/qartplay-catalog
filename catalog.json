@@ -1,17 +1,29 @@
 {
-    "format":  1,
-    "updated_at":  "2026-11-07",
-    "games":  [
-                  {
-                      "title":  "Atomic Heart",
-                      "steam_app_id":  "668580",
-                      "patch_id":  "atomic-heart-ka",
-                      "version":  "V18",
-                      "description":  "ქართული ტექსტები და ფონტები",
-                      "download":  {
-                                       "url":  "patches/atomic-heart-ka-V18.zip",
-                                       "sha256":  "af0bae91cb5b958ca775bbb11a58a429f3a5e4fced97929bcc02ac540ea00906"
-                                   }
-                  }
-              ]
+  "format": 1,
+  "games": [
+    {
+      "description": "ქართული ტექსტები და ფონტები",
+      "download": {
+        "sha256": "af0bae91cb5b958ca775bbb11a58a429f3a5e4fced97929bcc02ac540ea00906",
+        "url": "patches/atomic-heart-ka-V18.zip"
+      },
+      "patch_id": "atomic-heart-ka",
+      "steam_app_id": "668580",
+      "title": "Atomic Heart",
+      "version": "V18"
+    },
+    {
+      "description": "",
+      "download": {
+        "sha256": "8c4598bb3db5b086bf13902999967d959ab270b8958f7d4b41da14cdf55193f6",
+        "url": "patches/become-human-ka-V1.6.zip"
+      },
+      "mode": "installer",
+      "patch_id": "become-human-ka",
+      "steam_app_id": "1222140",
+      "title": "Become Human",
+      "version": "V1.6"
+    }
+  ],
+  "updated_at": "2026-11-07"
 }
