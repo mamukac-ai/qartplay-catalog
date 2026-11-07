@@ -1,0 +1,17 @@
+{
+    "format":  1,
+    "updated_at":  "2026-11-07",
+    "games":  [
+                  {
+                      "title":  "Atomic Heart",
+                      "steam_app_id":  "668580",
+                      "patch_id":  "atomic-heart-ka",
+                      "version":  "V18",
+                      "description":  "ქართული ტექსტები და ფონტები",
+                      "download":  {
+                                       "url":  "patches/atomic-heart-ka-V18.zip",
+                                       "sha256":  "af0bae91cb5b958ca775bbb11a58a429f3a5e4fced97929bcc02ac540ea00906"
+                                   }
+                  }
+              ]
+}
